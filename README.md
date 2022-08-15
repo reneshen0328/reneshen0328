@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rene :)
 - 👀 I’m interested in baking!
-- 🌱 I’m currently learning JavaScript & SQL
+- 🌱 I’m currently learning React, PHP, and RESTful API
 - 💞️ I’m looking to collaborate on Multiverse Apprentice Community
 - 📫 How to reach me : rene.shen0328@gmail.com
 
